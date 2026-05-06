@@ -1,0 +1,45 @@
+npm warn Unknown user config "home". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+
+ Quartz v4.4.0 
+
+Cleaned output directory `public` in 8ms
+Found 28 input files from `content` in 7ms
+[2K[1GParsed 28 Markdown files in 217ms
+Filtered out 0 files in 41μs
+[2K[1GEmitted 54 files to `public` in 138ms
+Done processing 28 files in 371ms
+Started a Quartz server listening at http://localhost:8080
+hint: exit with ctrl+c
+[200] /
+[200] /%E6%8A%96%E9%9F%B3%E5%94%90%E5%98%89%E7%90%A6%E8%84%9A%E6%9C%AC%E6%8B%8D%E6%91%84%E5%88%86%E6%9E%90
+[200] /%E8%A7%86%E9%A2%91%E8%84%9A%E6%9C%AC-00%E5%90%8E%E7%A8%8B%E5%BA%8F%E5%91%98%E8%A2%AB%E8%A3%81%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A4%A9
+Detected change, rebuilding...
+[2K[1GParsed 1 Markdown files in 45ms
+Filtered out 0 files in 46μs
+[2K[1GEmitted 54 files to `public` in 327ms
+Done rebuilding in 376ms
+Detected change, rebuilding...
+[2K[1GParsed 1 Markdown files in 32ms
+Filtered out 0 files in 19μs
+[2K[1GEmitted 54 files to `public` in 140ms
+Done rebuilding in 174ms
+Detected change, rebuilding...
+[2K[1GParsed 1 Markdown files in 55ms
+Filtered out 0 files in 18μs
+[2K[1GEmitted 54 files to `public` in 128ms
+Done rebuilding in 185ms
+Detected change, rebuilding...
+[2K[1GParsed 1 Markdown files in 42ms
+Filtered out 0 files in 15μs
+[2K[1GEmitted 54 files to `public` in 111ms
+Done rebuilding in 157ms
+Detected change, rebuilding...
+[2K[1GParsed 1 Markdown files in 49ms
+Filtered out 0 files in 22μs
+[2K[1GEmitted 54 files to `public` in 108ms
+Done rebuilding in 158ms
+Detected change, rebuilding...
+[2K[1GParsed 1 Markdown files in 46ms
+Filtered out 0 files in 15μs
+[2K[1GEmitted 54 files to `public` in 118ms
+Done rebuilding in 165ms
