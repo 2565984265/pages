@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "zh-CN",
-    baseUrl: "zhao_di_blog.gitee.io/personal-garden",
+    baseUrl: "2565984265.github.io/personal-garden",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
