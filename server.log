@@ -147,3 +147,13 @@ Detected change, rebuilding...
 Filtered out 0 files in 27μs
 [2K[1GEmitted 59 files to `public` in 129ms
 Done rebuilding in 166ms
+Detected change, rebuilding...
+[2K[1GParsed 1 Markdown files in 47ms
+Filtered out 0 files in 35μs
+[2K[1GEmitted 60 files to `public` in 144ms
+Done rebuilding in 195ms
+Detected change, rebuilding...
+[2K[1GParsed 1 Markdown files in 49ms
+Filtered out 0 files in 35μs
+[2K[1GEmitted 60 files to `public` in 128ms
+Done rebuilding in 179ms
