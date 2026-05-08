@@ -43,3 +43,83 @@ Detected change, rebuilding...
 Filtered out 0 files in 15μs
 [2K[1GEmitted 54 files to `public` in 118ms
 Done rebuilding in 165ms
+Detected a source code change, doing a hard rebuild...
+Cleaned output directory `public` in 4ms
+Found 28 input files from `content` in 1ms
+[2K[1GParsed 28 Markdown files in 167ms
+Filtered out 0 files in 68μs
+[2K[1GEmitted 54 files to `public` in 114ms
+Done processing 28 files in 287ms
+Detected a source code change, doing a hard rebuild...
+Cleaned output directory `public` in 4ms
+Found 28 input files from `content` in 826μs
+[2K[1GParsed 28 Markdown files in 147ms
+Filtered out 0 files in 60μs
+[2K[1GEmitted 54 files to `public` in 112ms
+Done processing 28 files in 265ms
+Detected a source code change, doing a hard rebuild...
+Cleaned output directory `public` in 4ms
+Found 28 input files from `content` in 1ms
+[2K[1GParsed 28 Markdown files in 178ms
+Filtered out 0 files in 48μs
+[2K[1GEmitted 54 files to `public` in 116ms
+Done processing 28 files in 301ms
+Detected a source code change, doing a hard rebuild...
+Cleaned output directory `public` in 5ms
+Found 28 input files from `content` in 1ms
+[2K[1GParsed 28 Markdown files in 178ms
+Filtered out 0 files in 50μs
+[2K[1GEmitted 54 files to `public` in 115ms
+Done processing 28 files in 300ms
+Detected a source code change, doing a hard rebuild...
+Cleaned output directory `public` in 3ms
+Found 28 input files from `content` in 861μs
+[2K[1GParsed 28 Markdown files in 147ms
+Filtered out 0 files in 57μs
+[2K[1GEmitted 54 files to `public` in 109ms
+Done processing 28 files in 262ms
+Detected change, rebuilding...
+[2K[1GParsed 1 Markdown files in 64ms
+Filtered out 0 files in 110μs
+[2K[1GEmitted 54 files to `public` in 137ms
+Done rebuilding in 205ms
+Detected change, rebuilding...
+[2K[1GParsed 1 Markdown files in 33ms
+Filtered out 0 files in 28μs
+[2K[1GEmitted 54 files to `public` in 116ms
+Done rebuilding in 150ms
+Detected change, rebuilding...
+[2K[1GParsed 1 Markdown files in 37ms
+Filtered out 0 files in 24μs
+[2K[1GEmitted 54 files to `public` in 115ms
+Done rebuilding in 154ms
+Detected change, rebuilding...
+[2K[1GParsed 1 Markdown files in 34ms
+Filtered out 0 files in 25μs
+[2K[1GEmitted 54 files to `public` in 112ms
+Done rebuilding in 149ms
+Detected change, rebuilding...
+[2K[1GParsed 1 Markdown files in 35ms
+Filtered out 0 files in 24μs
+[2K[1GEmitted 54 files to `public` in 108ms
+Done rebuilding in 146ms
+Detected change, rebuilding...
+[2K[1GParsed 1 Markdown files in 24ms
+Filtered out 0 files in 22μs
+[2K[1GEmitted 54 files to `public` in 117ms
+Done rebuilding in 142ms
+Detected change, rebuilding...
+[2K[1GParsed 1 Markdown files in 31ms
+Filtered out 0 files in 42μs
+[2K[1GEmitted 54 files to `public` in 133ms
+Done rebuilding in 169ms
+Detected change, rebuilding...
+[2K[1GParsed 2 Markdown files in 36ms
+Filtered out 0 files in 21μs
+[2K[1GEmitted 57 files to `public` in 128ms
+Done rebuilding in 166ms
+Detected change, rebuilding...
+[2K[1GParsed 1 Markdown files in 25ms
+Filtered out 0 files in 24μs
+[2K[1GEmitted 57 files to `public` in 133ms
+Done rebuilding in 160ms
